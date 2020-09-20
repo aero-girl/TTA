@@ -1,0 +1,12 @@
+Create a CSV file of 15 holiday destinations for website
+Complete the following data analysis, taking screenshots/evidence for each one.
+1. How many rows and columns are there in your file?How many rows and columns are there in your file? 
+2. Print row 3-8 ( using iloc iloc /loc loc).
+3. Find the mean number of all-inclusive hotels across all destinations.
+4. Find the lowest scoring destination.
+5. Find the highest scoring destination.
+6. Find all the destinations where there are more than 9 all inclusive hotels.
+7. Filter the data by destination and score above 8. 
+8. Filter the data by destination and score below 2 ( I need to know if these Filter the data by destination and score below 2 ( I need to know if these destinations should be removed or there is a problem) 
+9. Is there a correlation between number of all inclusive hotels and score?
+10. Create a data visualisation diagram to show destination and highest scores? 
